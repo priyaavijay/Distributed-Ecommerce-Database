@@ -1,0 +1,41 @@
+﻿product_id,product_name,category_id,product_desc,product_code,price,inventory_id,created_time,modified_time,suppliers_id
+6,Running Shoes,7,High-performance running shoes,PRD006,79.99,6,2023-11-15 10:30:00,2023-11-15 10:30:00,2
+7,Leather Handbag,13,Stylish leather handbag for everyday use,PRD007,59.99,7,2023-11-14 15:45:00,2023-11-14 15:45:00,4
+8,Fashion Sunglasses,15,Trendy fashion sunglasses for a cool look,PRD008,29.99,8,2023-11-13 20:0:00,2023-11-13 20:0:00,5
+9,Statement Necklace,14,Statement necklace for a bold fashion statement,PRD009,39.99,9,2023-11-12 08:15:00,2023-11-12 08:15:00,5
+10,Travel Backpack,13,Durable travel backpack for on-the-go adventures,PRD010,49.99,10,2023-11-11 23:30:00,2023-11-11 23:30:00,4
+11,Matte Lipstick,6,Matte lipstick for a long-lasting finish,PRD011,12.99,11,2023-11-10 05:45:00,2023-11-10 05:45:00,1
+12,Skin Brightening Cream,6,Skin brightening cream for radiant skin,PRD012,24.99,12,2023-11-09 18:0:00,2023-11-09 18:0:00,1
+13,Running Shorts,8,Comfortable running shorts for workouts,PRD013,19.99,13,2023-11-08 12:30:00,2023-11-08 12:30:00,2
+14,Protein Powder,9,High-quality protein powder for muscle building,PRD014,29.99,14,2023-11-07 14:45:00,2023-11-07 14:45:00,1
+15,Aromatherapy Diffuser,10,Aromatherapy diffuser for a calming atmosphere,PRD015,34.99,15,2023-11-06 09:0:00,2023-11-06 09:0:00,3
+16,Cozy Cat Bed,11,Cozy bed for your cat's relaxation,PRD016,14.99,16,2023-11-05 16:30:00,2023-11-05 16:30:00,4
+17,Interactive Dog Toy,11,Interactive toy for your playful dog,PRD017,9.99,17,2023-11-04 21:45:00,2023-11-04 21:45:00,4
+18,Educational Toy Set,12,Educational toy set for children,PRD018,22.99,18,2023-11-03 03:0:00,2023-11-03 03:0:00,3
+19,Classic Sneakers,7,Classic sneakers for a casual and comfortable look,PRD019,54.99,19,2023-11-02 19:15:00,2023-11-02 19:15:00,2
+20,Convertible Backpack,13,Convertible backpack for versatile styling,PRD020,64.99,20,2023-11-01 10:30:00,2023-11-01 10:30:00,4
+21,Stylish Bracelet,14,Stylish bracelet to complement your outfit,PRD021,18.99,21,2023-10-31 15:45:00,2023-10-31 15:45:00,5
+22,Aviator Sunglasses,15,Classic aviator sunglasses for a timeless look,PRD022,44.99,22,2023-10-30 20:0:00,2023-10-30 20:0:00,5
+23,Nourishing Hair Oil,6,Nourishing hair oil for smooth and healthy hair,PRD023,15.99,23,2023-10-29 08:15:00,2023-10-29 08:15:00,1
+24,Workout Leggings,8,Stretchy workout leggings for active lifestyles,PRD024,29.99,24,2023-10-28 23:30:00,2023-10-28 23:30:00,2
+25,Joint Support Capsules,9,Capsules for joint support and flexibility,PRD025,27.99,25,2023-10-27 05:45:00,2023-10-27 05:45:00,1
+26,Lavender Essential Oil,10,Lavender essential oil for relaxation,PRD026,12.99,26,2023-10-26 18:0:00,2023-10-26 18:0:00,3
+27,Soft Cat Toy Set,11,Soft toy set for your cat's entertainment,PRD027,8.99,27,2023-10-25 12:30:00,2023-10-25 12:30:00,4
+28,Dental Chews for Dogs,11,Dental chews for your dog's oral health,PRD028,14.99,28,2023-10-24 14:45:00,2023-10-24 14:45:00,4
+29,Educational Board Game,12,Educational board game for fun learning,PRD029,19.99,29,2023-10-23 09:0:00,2023-10-23 09:0:00,3
+30,Classic Oxfords,7,Classic oxfords for a polished and timeless look,PRD030,69.99,30,2023-10-22 16:30:00,2023-10-22 16:30:00,2
+31,Chic Tote Bag,13,Chic tote bag for a sophisticated style,PRD031,54.99,31,2023-10-21 21:45:00,2023-10-21 21:45:00,4
+32,Bohemian Earrings,14,Bohemian earrings for a free-spirited look,PRD032,23.99,32,2023-10-20 03:0:00,2023-10-20 03:0:00,5
+33,Classic Wayfarer Sunglasses,15,Classic wayfarer sunglasses for a timeless appeal,PRD033,39.99,33,2023-10-19 19:15:00,2023-10-19 19:15:00,5
+34,Hydrating Face Mask,6,Hydrating face mask for a refreshing experience,PRD034,9.99,34,2023-10-18 10:30:00,2023-10-18 10:30:00,1
+35,Anti-Aging Night Cream,6,Anti-aging night cream for youthful skin,PRD035,29.99,35,2023-10-17 15:45:00,2023-10-17 15:45:00,1
+36,Badminton Racket Set,8,Badminton racket set for recreational play,PRD036,49.99,36,2023-10-16 20:0:00,2023-10-16 20:0:00,2
+37,Omega-3 Fish Oil Capsules,9,Essential omega-3 fish oil capsules,PRD037,18.99,37,2023-10-15 08:15:00,2023-10-15 08:15:00,1
+38,Lemon Essential Oil,10,Lemon essential oil for a refreshing atmosphere,PRD038,14.99,38,2023-10-14 23:30:00,2023-10-14 23:30:00,3
+39,Cozy Cat Tower,11,Cozy tower for your cat's comfort,PRD039,39.99,39,2023-10-13 05:45:00,2023-10-13 05:45:00,4
+40,Chewy Chicken Jerky,11,Chewy chicken jerky for dogs,PRD040,11.99,40,2023-10-12 18:0:00,2023-10-12 18:0:00,4
+41,Educational Puzzle Set,12,Educational puzzle set for kids,PRD041,24.99,41,2023-10-11 12:30:00,2023-10-11 12:30:00,3
+42,Stylish Kids' Jacket,12,Stylish jacket for fashionable kids,PRD042,34.99,42,2023-10-10 14:45:00,2023-10-10 14:45:00,3
+43,Colorful Building Blocks,12,Colorful and creative building blocks,PRD043,19.99,43,2023-10-09 09:0:00,2023-10-09 09:0:00,3
+44,Classic Loafers,7,Classic loafers for a timeless style,PRD044,49.99,44,2023-10-08 16:30:00,2023-10-08 16:30:00,2
+45,Designer Crossbody Bag,13,Designer crossbody bag for a chic look,PRD045,69.99,45,2023-10-07 21:45:00,2023-10-07 21:45:00,4
